@@ -17,3 +17,5 @@ Delightful Business development workflow
 - refine & scale up
 
 - identify the risk factors that could negatively impact business, and diversify the business / build in buffers and safety nets that will keep the business afloat if these risk factors ever become reality.
+   - store up sufficient levels of cash. as much as possible, don't let it impact growth.
+   - offer alternative products/services that align with the business, but can generate cash if these risk factors become real.
