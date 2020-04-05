@@ -15,3 +15,5 @@ Delightful Business development workflow
 - proof of concept (to test that the business model works, and the tech can do what its supposed to, at scale)
 
 - refine & scale up
+
+- identify the risk factors that could negatively impact business, and diversify the business / build in buffers and safety nets that will keep the business afloat if these risk factors ever become reality.
